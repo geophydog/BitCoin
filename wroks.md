@@ -1,1 +1,1 @@
-[Introduction to priciple of BitCoin](http://blog.jobbole.com/113429/)
+[Introduction to pricinple of BitCoin](http://blog.jobbole.com/113429/)
